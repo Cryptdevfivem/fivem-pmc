@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Standalone callback system by PiterMcFlebor'
+description 'Standalone callback system by Crypt'
 version '1.0'
 
 file 'import.lua'
